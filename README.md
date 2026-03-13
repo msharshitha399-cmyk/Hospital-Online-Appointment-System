@@ -30,7 +30,7 @@ context – Global state management
 
 ##Project Screenshot
 ![Project Screenshot]
-(preview.png)
+(http://localhost:3000/)
 
 ## Author
 Harshitha MS
