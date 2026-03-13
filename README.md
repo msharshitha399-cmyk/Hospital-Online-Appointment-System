@@ -28,6 +28,10 @@ context – Global state management
 2. Start the development server
 3. Open in browser
 
+## Project Preview
+![Hospital Online Appointment System]
+(project-preview.png)
+
 
 ## Author
 Harshitha MS
