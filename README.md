@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Hospital-Online-Appointment-System
 
-# Run and deploy your AI Studio app
+A web-based hospital appointment management system that allows patients to book appointments with doctors online.  
+The system provides a simple and user-friendly interface for managing appointments and viewing hospital services.
 
-This contains everything you need to run your app locally.
+## Features
+- Book doctor appointments online
+- View available doctors and services
+- Manage patient appointment details
+- Simple and responsive user interface
 
-View your app in AI Studio: https://ai.studio/apps/drive/1lPWJvfCoPH0LkBAik1t9HW3nl4jx18fV
+## Technologies Used
+- React
+- TypeScript
+- Vite
+- React Router
 
-## Run Locally
+## Project Structure
+components – Reusable UI components  
+pages – Application pages  
+services – Business logic / API services  
+context – Global state management
 
-**Prerequisites:**  Node.js
+
+## How to Run the Project
+
+1. Install dependencies
+2. Start the development server
+3. Open in browser
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Author
+Harshitha MS
