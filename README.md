@@ -28,7 +28,9 @@ context – Global state management
 2. Start the development server
 3. Open in browser
 
-
+##Project Screenshot
+![Project Screenshot]
+(http://localhost:3000/)
 
 ## Author
 Harshitha MS
