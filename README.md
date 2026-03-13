@@ -30,7 +30,7 @@ context – Global state management
 
 ## Project Preview
 ![Project Screenshot]
-(preview.png)
+(https://github.com/msharshitha399-cmyk/Hospital-Online-Appointment-System/blob/dc4c284c25eee7ffeb793594e34c8f172b48984a/preview.png)
 
 
 ## Author
