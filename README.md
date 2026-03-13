@@ -28,9 +28,6 @@ context – Global state management
 2. Start the development server
 3. Open in browser
 
-## Project Preview
-![Project Screenshot]
-(./preview.png)
 
 
 ## Author
