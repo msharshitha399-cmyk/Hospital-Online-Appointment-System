@@ -30,7 +30,7 @@ context – Global state management
 
 ## Project Preview
 ![Hospital Online Appointment System]
-(project-preview.png)
+(project-preview.png.png)
 
 
 ## Author
